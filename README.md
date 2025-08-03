@@ -21,3 +21,4 @@ Line chart visualizing total annual sales and average sales ratios across multip
 This dashboard utilizes advanced Power BI features like slicers, DAX measures, tooltips, and interactive visuals for real estate analysis.
 
 📁 File: `Real_Estate_Sales_Dashboard.pbix`
+<img width="1309" height="739" alt="image" src="https://github.com/user-attachments/assets/9a08ac07-2563-4d3d-860e-e7b283384fbb" />
